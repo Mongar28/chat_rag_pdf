@@ -1,0 +1,7 @@
+.env
+.venv
+chat/__pycache__
+langchain_tools/__pycache__
+streamlit_components/__pycache__
+documents/pdfs/*
+
